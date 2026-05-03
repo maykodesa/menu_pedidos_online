@@ -1,37 +1,47 @@
-# 🍔 Menu | Sistema de Cardápio Digital
+🍔 Menu Pedidos Online
 
-## 🚀 Sobre o Projeto
-O **Menu** é um sistema web desenvolvido para apresentar cardápios de lanchonetes, hamburguerias ou restaurantes de forma moderna, organizada e responsiva.
+Aplicação web desenvolvida com foco comercial para realização de pedidos de lanches, simulando um fluxo real de atendimento e vendas online.
 
-O projeto permite exibir produtos, categorias, preços e informações de contato, oferecendo uma experiência prática para clientes em desktop ou mobile.
+🚀 Funcionalidades
 
----
+- Exibição de produtos em formato de cardápio
+- Carrinho de compras dinâmico
+- Cálculo automático do valor total
+- Finalização de pedidos
+- Envio automático via WhatsApp
+- Persistência de dados em JSON
 
-## ✨ Funcionalidades
-- 🍟 Exibição de lanches, combos e bebidas  
-- 📱 Layout responsivo para celular, tablet e desktop  
-- 🔎 Organização por categorias  
-- 🛒 Interface intuitiva e moderna  
-- 📞 Contato rápido via WhatsApp  
-- 🌙 Visual profissional e atrativo  
-- 📍 Ideal para cardápios digitais ou delivery  
+🎯 Objetivo
 
----
+Desenvolver uma solução simples e prática para facilitar o processo de pedidos online, aplicando conceitos de lógica de programação, manipulação de dados e integração com serviços externos.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Bootstrap**
-- **Bootstrap Icons**
+💼 Contexto do projeto
 
----
+Projeto desenvolvido com intenção de uso comercial, buscando oferecer uma experiência prática ao cliente e otimizar o fluxo de vendas.
 
-## 📂 Estrutura do Projeto
-```bash
-menu/
-│
-├── index.html       # Página principal
-├── style.css        # Estilização
-├── script.js        # Funcionalidades
-└── assets/          # Imagens e ícones
+🛠️ Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+
+▶️ Como executar
+
+Clone o repositório:
+
+git clone https://github.com/maykodesa/menu_pedidos_online.git
+
+Abra o arquivo "index.html" no navegador.
+
+📌 Diferencial
+
+O projeto simula um fluxo completo de pedido, desde a escolha dos produtos até o envio final via WhatsApp, aproximando a aplicação de um cenário real de uso.
+
+📷 Demonstração
+
+Adicione aqui prints da interface ou um GIF mostrando o fluxo de pedidos.
+
+👨‍💻 Autor
+
+Mayko de Sá Martins
