@@ -1,7 +1,7 @@
 # 🍔 Menu | Sistema de Cardápio Digital
 
 ## 🚀 Sobre o Projeto
-O **Menu Lanches** é um sistema web desenvolvido para apresentar cardápios de lanchonetes, hamburguerias ou restaurantes de forma moderna, organizada e responsiva.
+O **Menu** é um sistema web desenvolvido para apresentar cardápios de lanchonetes, hamburguerias ou restaurantes de forma moderna, organizada e responsiva.
 
 O projeto permite exibir produtos, categorias, preços e informações de contato, oferecendo uma experiência prática para clientes em desktop ou mobile.
 
